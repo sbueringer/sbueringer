@@ -9,7 +9,7 @@
 </br></br>
 
 * 🔭 I’m currently working on [ClusterAPI](https://github.com/kubernetes-sigs/cluster-api) and [ClusterAPI Provider OpenStack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
-* 💬 Ask me about anything <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+* 💬 Ask me about anything <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.svg"></code>
 * 😄 Pronouns: he/him
 * 📫 How to reach me: [@sbueringer](https://twitter.com/sbueringer)
 
