@@ -18,7 +18,6 @@
 
 <code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804096-7842a680-ab1c-11eb-9831-001929b5434c.png"></code>
 <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804184-146cad80-ab1d-11eb-8f06-8d57d62b5d35.png"></code>
 
 [![Stefan Büringer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbueringer&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
