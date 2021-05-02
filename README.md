@@ -13,6 +13,7 @@
 * 💬 Ask me about anything <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png"></code>
 * 😄 Pronouns: he/him
 * 📫 How to reach me: [@sbueringer](https://twitter.com/sbueringer)
+* 📝 Also on Medium: [@sbueringer](https://medium.com/@sbueringer)
 
 **Languages and Tools:**  
 
