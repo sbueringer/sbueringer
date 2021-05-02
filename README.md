@@ -21,6 +21,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbueringer&hide=mathematica,javascript,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbueringer&hide=mathematica,javascript,php&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Stefan Büringer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbueringer&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
