@@ -1,3 +1,4 @@
+![Go-Logo_Aqua](https://user-images.githubusercontent.com/4662360/116804086-64974000-ab1c-11eb-90c6-f76c81d3576a.png)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/sbueringer">
@@ -15,7 +16,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804096-7842a680-ab1c-11eb-9831-001929b5434c.png"></code>
 <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
