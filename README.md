@@ -1,4 +1,4 @@
-![Go-Logo_Aqua](https://user-images.githubusercontent.com/4662360/116804086-64974000-ab1c-11eb-90c6-f76c81d3576a.png)
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/sbueringer">
