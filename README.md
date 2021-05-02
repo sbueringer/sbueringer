@@ -20,14 +20,16 @@
 <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804184-146cad80-ab1d-11eb-8f06-8d57d62b5d35.png"></code>
 
+**Stats:**
+
 [![Stefan Büringer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbueringer&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbueringer&hide=mathematica,javascript,php&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Side projects:**
 
-[![kubectx](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=kubectx&theme-vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![kubectl-openstack-plugin](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=kubectl-openstack-plugin&theme-vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![kustomize-webhook](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=kustomize-webhook&theme-vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![grafana-consul-datasource](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=grafana-consul-datasource&theme-vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![grafana-dot-panel](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=grafana-dot-panel&theme-vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![kubectx](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=kubectx&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![kubectl-openstack-plugin](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=kubectl-openstack-plugin&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![kustomize-webhook](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=kustomize-webhook&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![grafana-consul-datasource](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=grafana-consul-datasource&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![grafana-dot-panel](https://github-readme-stats.vercel.app/api/pin/?username=sbueringer&repo=grafana-dot-panel&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
