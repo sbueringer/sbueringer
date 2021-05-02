@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/stefan-b%C3%BCringer-a1b33258/">
   <img align="left" alt="Stefan Büringer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</br>
+</br></br>
 
 * 🔭 I’m currently working on [ClusterAPI](https://github.com/kubernetes-sigs/cluster-api) and [ClusterAPI Provider OpenStack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
 * 💬 Ask me about anything <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
