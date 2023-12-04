@@ -2,15 +2,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/sbueringer">
-  <img align="left" alt="Stefan Büringer | Twitter" src="https://cdn.simpleicons.org/twitter" />
+  <img align="left" alt="Stefan Büringer | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/stefan-b%C3%BCringer-a1b33258/">
-  <img align="left" alt="Stefan Büringer's LinkedIN" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="Stefan Büringer's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 </br></br>
 
 * 🔭 I’m currently working on [ClusterAPI](https://github.com/kubernetes-sigs/cluster-api)
-* 💬 Ask me about anything <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png"></code>
+* 💬 Ask me about anything <code><img height="20" src="https://cdn.simpleicons.org/kubernetes"></code>
 * 😄 Pronouns: he/him
 * 📫 How to reach me: [@sbueringer](https://twitter.com/sbueringer)
 * 📝 Also on Medium: [@sbueringer](https://medium.com/@sbueringer)
