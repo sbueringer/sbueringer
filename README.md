@@ -2,7 +2,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://x.com/sbueringer">
-  <img align="left" alt="Stefan Büringer | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
+  <img align="left" alt="Stefan Büringer | Twitter" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://www.linkedin.com/in/stefan-b%C3%BCringer-a1b33258/">
   <img align="left" alt="Stefan Büringer's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
