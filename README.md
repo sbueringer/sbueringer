@@ -1,14 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://x.com/sbueringer">
-  <img align="left" alt="Stefan Büringer | Twitter" width="22px" src="https://cdn.simpleicons.org/x" />
-</a>
-<a href="https://www.linkedin.com/in/stefan-b%C3%BCringer-a1b33258/">
-  <img align="left" alt="Stefan Büringer's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
-</br></br>
-
 * 🔭 I’m currently working on [ClusterAPI](https://github.com/kubernetes-sigs/cluster-api)
 * 💬 Ask me about anything <code><img height="20" src="https://cdn.simpleicons.org/kubernetes"></code>
 * 😄 Pronouns: he/him
