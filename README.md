@@ -10,7 +10,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804096-7842a680-ab1c-11eb-9831-001929b5434c.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/kubernetes"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804184-146cad80-ab1d-11eb-8f06-8d57d62b5d35.png"></code>
 
 **Stats:**
